@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import { Text, View, StyleSheet, SafeAreaView, FlatList } from "react-native";
 
-
+// ผลงานนี้ ผม ณัฐภัทร บัวเพชร เป็นคน Edit เองโว้ยยยยยยยยยยยยยยยยยยยยยยยยยยยย
 const App = () => {
 
     const [ItCamp, setItCamp] = useState(['']);
